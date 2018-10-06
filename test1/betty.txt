@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is BC04-1CD4
+
+ Directory of D:\src\mergerepo\TestRepo1\test1
+
+10/06/2018  08:14 AM    <DIR>          .
+10/06/2018  08:14 AM    <DIR>          ..
+10/06/2018  08:14 AM                 0 betty.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  156,958,216,192 bytes free
